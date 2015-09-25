@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="scripts.TC3">
+        <methods>
+          <include name="testTC3"/>
+        </methods>
+      </class> <!-- scripts.TC3 -->
+      <class name="scripts.TC1">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="testTC1"/>
+        </methods>
+      </class> <!-- scripts.TC1 -->
+      <class name="scripts.TC2">
+        <methods>
+          <include name="testTC2"/>
+        </methods>
+      </class> <!-- scripts.TC2 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

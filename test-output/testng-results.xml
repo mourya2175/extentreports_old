@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96116" started-at="2015-07-14T11:59:43Z" finished-at="2015-07-14T12:01:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96116" started-at="2015-07-14T11:59:43Z" finished-at="2015-07-14T12:01:19Z">
+      <class name="scripts.TC3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:scripts.TC3@7f0f47]" name="beforeClass" is-config="true" duration-ms="4466" started-at="2015-07-14T17:30:34Z" finished-at="2015-07-14T17:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testTC3()[pri:0, instance:scripts.TC3@7f0f47]" name="testTC3" duration-ms="39827" started-at="2015-07-14T17:30:39Z" finished-at="2015-07-14T17:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:scripts.TC3@7f0f47]" name="afterClass" is-config="true" duration-ms="276" started-at="2015-07-14T17:31:19Z" finished-at="2015-07-14T17:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- scripts.TC3 -->
+      <class name="scripts.TC2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:scripts.TC2@12f0539]" name="beforeClass" is-config="true" duration-ms="3089" started-at="2015-07-14T17:30:05Z" finished-at="2015-07-14T17:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testTC2()[pri:0, instance:scripts.TC2@12f0539]" name="testTC2" duration-ms="26185" started-at="2015-07-14T17:30:08Z" finished-at="2015-07-14T17:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:scripts.TC2@12f0539]" name="afterClass" is-config="true" duration-ms="163" started-at="2015-07-14T17:30:34Z" finished-at="2015-07-14T17:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- scripts.TC2 -->
+      <class name="scripts.TC1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:scripts.TC1@1c4390a]" name="beforeClass" is-config="true" duration-ms="4199" started-at="2015-07-14T17:29:43Z" finished-at="2015-07-14T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testTC1()[pri:0, instance:scripts.TC1@1c4390a]" name="testTC1" duration-ms="17741" started-at="2015-07-14T17:29:47Z" finished-at="2015-07-14T17:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC1 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:scripts.TC1@1c4390a]" name="afterClass" is-config="true" duration-ms="150" started-at="2015-07-14T17:30:05Z" finished-at="2015-07-14T17:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- scripts.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
